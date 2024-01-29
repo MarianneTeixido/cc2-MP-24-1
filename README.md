@@ -15,16 +15,6 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [Processing](https://processing.org/)
 - [ChatGPT](https://chat.openai.com/)
 - [Sistema de Cordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
-- [Variables](https://processing.org/examples/variables.html)
-- [Random](https://processing.org/reference/random_.html)
-- [Setup y draw](https://processing.org/examples/setupdraw.html)
-- [if](https://processing.org/reference/if.html)
-- [else](https://processing.org/reference/else.html)
-- [PImage](https://processing.org/reference/PImage.html)
-- [Arreglos](https://processing.org/reference/Array.html)
-- [For](https://processing.org/reference/for.html)
-- [String](https://processing.org/reference/String.html)
-- [Custom Functions](https://processing.org/examples/functions.html)
 
 ## Recursos adicionales
 
