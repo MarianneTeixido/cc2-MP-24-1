@@ -1,4 +1,4 @@
-![portada](/banner.png)
+![portada](img/banner.png)
 
 # Código creativo 2. Programación estructurada en el diseño
 
